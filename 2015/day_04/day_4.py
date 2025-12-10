@@ -2,10 +2,6 @@
 import os
 import hashlib
 
-script_dir = os.path.dirname(__file__)
-filename ="input.txt"
-filepath = os.path.join(script_dir, filename)
-
 key = "yzbqklnj"
 found = False
 number = 0
